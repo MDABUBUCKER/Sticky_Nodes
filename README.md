@@ -14,3 +14,8 @@ A Simple and Colorful Sticky Notes website Using  Html, Css, and Javascript It A
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+
+
+🌐 Live Demo
+
+- https://siddiksticky-notes.netlify.app/
